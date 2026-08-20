@@ -1,72 +1,82 @@
-# 👋 Hi, I'm Muhammad Ayan Iqbal
-
 <div align="center">
 
-## 💻 Frontend Developer | React.js & Next.js
+# Muhammad Ayan Iqbal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Developer;Next.js+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
+### Full-Stack Developer · MERN Stack · Next.js · React Native
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Next.js+Developer;React+Native+Developer;Building+Modern+Digital+Experiences" alt="Typing SVG" />
+
+<br />
+
+<a href="https://github.com/muhammad_ayan">
+  <img src="https://img.shields.io/badge/GitHub-muhammad__ayan-181717?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a passionate Frontend Developer focused on building modern, responsive,
-and user-friendly web applications.
+I'm a passionate developer focused on building modern, scalable and
+user-friendly web and mobile applications.
 
-- 💻 Frontend Development
-- ⚛️ React.js
-- ▲ Next.js
-- 🎨 Responsive UI Design
-- 🔌 API Integration
-- 🌱 Always learning and improving
+I enjoy turning ideas into real-world digital products with clean code,
+modern UI and reliable functionality.
+
+- 💻 Full-Stack Web Development
+- ⚛️ React.js & Next.js
+- 📱 React Native
+- 🚀 MERN Stack
+- 🔌 REST APIs & Backend Development
+- 🗄️ MongoDB & Database Integration
+- 🌱 Continuously learning and improving
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<div align="center">
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode" />
+<div>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+
+</div>
+
+### Backend
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+</div>
+
+### Mobile & Tools
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=react,git,github,vscode,postman" />
 
 </div>
 
 ---
 
-## 📌 Featured Projects
-
-### 🤖 AI Fitness Coach
-AI-powered fitness application built with modern web technologies.
-
-### 🛒 E-Commerce Website
-Modern and responsive e-commerce interface.
-
-### 🌦️ Weather App
-Weather application using API integration.
-
-### ✅ Todo App
-Clean and responsive task management application.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🌱 Currently Learning
+## What I Build
 
 ```text
-Next.js
-Advanced React
-API Integration
-Full-Stack Development
-Modern UI/UX
+Web Applications
+        ↓
+React.js · Next.js · MERN
+
+Mobile Applications
+        ↓
+React Native
+
+Backend Systems
+        ↓
+Node.js · Express.js · REST APIs
+
+Database
+        ↓
+MongoDB
