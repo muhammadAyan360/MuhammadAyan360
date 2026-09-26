@@ -1,8 +1,8 @@
 <div align="center">
 
-# Muhammad Ayan Iqbal
+# Muhammad Ayan 
 
-### Full-Stack Developer · MERN Stack · Next.js · React Native
+### Frontend Developer · MERN Stack · Next.js · 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Next.js+Developer;React+Native+Developer;Building+Modern+Digital+Experiences" alt="Typing SVG" />
 
@@ -29,7 +29,7 @@ modern UI and reliable functionality.
 - 📱 React Native
 - 🚀 MERN Stack
 - 🔌 REST APIs & Backend Development
-- 🗄️ MongoDB & Database Integration
+- 🗄️ SupaBase & Database Integration
 - 🌱 Continuously learning and improving
 
 ---
@@ -44,13 +44,7 @@ modern UI and reliable functionality.
 
 </div>
 
-### Backend
 
-<div>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-
-</div>
 
 ### Mobile & Tools
 
@@ -73,10 +67,4 @@ Mobile Applications
         ↓
 React Native
 
-Backend Systems
-        ↓
-Node.js · Express.js · REST APIs
 
-Database
-        ↓
-MongoDB
